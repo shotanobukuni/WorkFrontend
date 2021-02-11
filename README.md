@@ -1,0 +1,1 @@
+# TypeScript作業用リポジトリ
