@@ -1,1 +1,1 @@
-# TypeScript作業用リポジトリ
+# Frontend作業用リポジトリ
